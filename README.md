@@ -29,7 +29,6 @@ I applied a unified theme (fonts, colors, backgrounds), formatted visuals for cl
 5. Templates & Reusability
 Dashboard.pbix: the fully functional dashboard.
 
-Dashboard_Template.pbit: structure-only file so others can rebuild with their own data.
 
 # 🌟 Key Highlights
 Self-authored end-to-end ETL using Power Query.
@@ -42,21 +41,16 @@ Clean, professional design consistent with dashboard best practices
 
 Modular template format for easy reuse and customization.
 
-Inspired (not copied) by tutorial formats—I reconstructed and extended the workflow.
 
 # 🚀 Get Started
 Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/streaming-dashboard.git
+
 Add your data
 Place your .csv in data/ and rename it to dataset.csv.
 
 Launch Power BI Desktop
 
-Open Dashboard_Template.pbit to begin with the structure.
 
 Or open Dashboard.pbix to explore the completed report.
 
